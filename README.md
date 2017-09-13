@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Everyone,
+
+I have this awesome friend named Erik that pushes me to broaden my horizons.  I'm a software engineer who wants to continue learning new skills and chill with my coolest friend.
